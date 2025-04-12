@@ -1,0 +1,65 @@
+{
+    "example" : "magyar",
+    "password" : "Jelszó",
+    "ageGroup" : "Korosztály",
+    "email" : "Email",
+    "login" : "Belépés",
+    "logToAcount" : "Belépés a fiókba",
+    "createAnAcount" : "Fiók készítés",
+    "dontHaveAcc" : "Nincs fiókod?",
+    "signUp" : "Regisztrálás",
+    "dateOfBirth" : "Születési dátum",
+    "create" : "Létrehozás",
+    "haveAcc" : "Van fiókod?",
+    "signIn" : "Bejelentkezés",
+
+    "recreation" : "Szabadidő",
+    "help" : "Segítség",
+    "map" : "Térkép",
+    "social" : "Közösség",
+    
+    "menu" : "Menü",
+    "account" : "Fiók",
+    "darkMode" : "Sötétmód",
+    "cardUpload" : "Kártya feltőltés",
+    "settings" : "Beállítások",
+    "signOut" : "Kijelentkezés",
+    
+    "userData" : "Felhasználói adatok",
+    "accountData" : "Fiók adatok",
+    "emailMod" : "Email frissítés",
+    "passMod" : "Jelszó frissítés",
+    "deleteAccount" : "Fiók törlés",
+    "ageGroupChoose" : "Korosztály választás",
+
+    "send" : "Küldés",
+    "cancel" : "Vissza",
+    
+    "badEmailPassword" : "Helytelen email vagy jelszó",
+    "invalidEmail" : "Helytelen email",
+    "invalidPassword" : "Túl rövid a jelszó",
+    "usersExists" : "Email már foglalt",
+    "fillinEmail" : "Email kötelező",
+    "fillinPassword" : "Jelszó kötelező",
+    "passwordDontMatch" : "Jelszó nem azonos",
+    "somethingWentWrong" : "Valami hiba történt",
+    "AccdeletionFailed" : "Hiba történt a törlés során",
+    "successfulLogout" : "Sikeres kijelentkezés",
+
+    "settingTheme" : "Téma",
+    "settingThemes" : "Témák",
+    "settingLight" : "Világos",
+    "settingDark" : "Sötét",
+    "settingAuto" : "Autómatikus",
+
+    "recTitle" : "Események",
+    "location" : "Helyszín",
+    "events" : "Programtípus",
+    "goToEvent" : "Tovább az eseményre",
+
+    "sort" : "Rendezés",
+    "sortCloseEvents" : "Távólság",
+    "locationReq" : "Néhány funkció nem fog működni"
+
+
+}
