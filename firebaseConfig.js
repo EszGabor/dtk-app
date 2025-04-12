@@ -7,7 +7,7 @@ import { getAuth } from "firebase/auth";
 
 // Initialize Firebase
 const firebaseConfig = {
-  apiKey: ""+process.env.FIREBASE_API,
+  apiKey: process.env.EXPO_PUBLIC_FIREBASE_API.toString(),
   authDomain: "react-native-db-32d3e.firebaseapp.com",
   projectId: "react-native-db-32d3e",
   storageBucket: "react-native-db-32d3e.firebasestorage.app",

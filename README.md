@@ -24,7 +24,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 4. make .env file in root
 
    EXPO_PUBLIC_GROQ_AI= =(api here)
-   FIREBASE_API= (api here)
+   EXPO_PUBLIC_FIREBASE_API= (api here)
 
 In the output, you'll find options to open the app in a
 
